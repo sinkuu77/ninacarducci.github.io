@@ -152,6 +152,18 @@ body {
 	font-size: 24px;
 }
 
+.carousel-control-prev,
+.carousel-control-next {
+	height: 50px;
+	top: 50%;
+}
+
+
+.carousel-control-prev:focus,
+.carousel-control-next:focus {
+	outline: 4px solid #3740ff;
+}
+
 .quote {
 	font-family: 'Spectral';
 	font-style: italic;
