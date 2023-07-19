@@ -73,8 +73,8 @@ body {
 }
 
 .picture img {
-	width: 100%;
-	height: auto;
+	width: 400px;
+	height: 399px;
 }
 
 #about-me {
@@ -416,5 +416,10 @@ input[type="submit"] {
 
 	.picture {
 		width: 80%;
+	}
+
+	.picture img {
+		width: 248px;
+		height: 248px;
 	}
 }
